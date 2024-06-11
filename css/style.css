@@ -133,15 +133,7 @@
 }
 
 @media (min-width: 992px) {
-    /* .navbar-light {
-        position: absolute;
-        width: 100%;
-        top: 0;
-        left: 0;
-        border-bottom: 1px solid rgba(256, 256, 256, .1);
-        z-index: 999;
-    } */
-    
+
     .sticky-top.navbar-light {
         position: fixed;
         background: #FFFFFF;
@@ -487,9 +479,4 @@
     100% {
       box-shadow: 0 0 0 rgba(#25d366, 0.5);
     }
-  }
-  
-  ::selection {
-    background: var(--theme-primary-color);
-    color: #fff;
   }
