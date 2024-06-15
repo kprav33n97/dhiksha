@@ -258,6 +258,10 @@
     transform: scale(1.1);
 }
 
+.package-item img {
+    max-height: 270px;
+}
+
 
 /*** Booking ***/
 .booking {
