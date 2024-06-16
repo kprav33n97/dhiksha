@@ -131,6 +131,10 @@
     .navbar-light .navbar-brand img {
         max-height: 45px;
     }
+    .destination img {
+        object-fit: cover;
+        object-position: bottom;
+    }
 }
 
 @media (min-width: 992px) {
@@ -260,6 +264,7 @@
 }
 
 .package-item img {
+    width: 100%;
     max-height: 270px;
 }
 
