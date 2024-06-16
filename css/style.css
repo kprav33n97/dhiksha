@@ -43,6 +43,7 @@
     font-family: 'Nunito', sans-serif;
     font-weight: 600;
     transition: .5s;
+    border-radius: 800px;
 }
 
 .btn.btn-primary,
